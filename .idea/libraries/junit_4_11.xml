@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="junit-4.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-14.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-14.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
